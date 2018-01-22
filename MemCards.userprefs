@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="MemCards.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ButtonReset.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MemCard.cs" Line="28" Column="6" />
+      <File FileName="Assets\Scripts\SceneController.cs" Line="89" Column="5" />
+      <File FileName="Assets\Scripts\ButtonReset.cs" Line="37" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
